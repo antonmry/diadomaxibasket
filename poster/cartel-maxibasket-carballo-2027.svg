@@ -12,24 +12,24 @@
   <text x="104" y="590" fill="#009325" font-family="Arial, sans-serif" font-size="242" font-weight="900">MAXI</text>
   <text x="100" y="795" fill="#003b17" font-family="Arial, sans-serif" font-size="208" font-weight="900">BASKET</text>
   <text x="116" y="855" fill="#52705b" font-family="Arial, sans-serif" font-size="25" font-weight="700" letter-spacing="2">EXPERIENCIA · COMPETICIÓN · COMUNIDADE</text>
-  <image href="maxibasket-heritage-photo.png" x="0" y="880" width="1800" height="940" preserveAspectRatio="xMidYMid slice"/>
-  <rect x="110" y="1570" width="615" height="160" rx="80" fill="#f7f8f0"/>
-  <text x="176" y="1638" fill="#009325" font-family="Arial, sans-serif" font-size="34" font-weight="800" letter-spacing="4">DOMINGO</text>
-  <text x="171" y="1698" fill="#003b17" font-family="Arial, sans-serif" font-size="73" font-weight="900">3 XANEIRO 2027</text>
+  <image href="maxibasket-heritage-photo-no-cigarette.png" x="0" y="880" width="1800" height="940" preserveAspectRatio="xMidYMid slice"/>
+  <rect x="100" y="1570" width="700" height="170" rx="85" fill="#f7f8f0"/>
+  <text x="165" y="1638" fill="#009325" font-family="Arial, sans-serif" font-size="32" font-weight="800" letter-spacing="4">DOMINGO</text>
+  <text x="160" y="1700" fill="#003b17" font-family="Arial, sans-serif" font-size="62" font-weight="900">3 XANEIRO 2027</text>
   <rect x="0" y="1820" width="1800" height="9" fill="#009325"/>
   <text x="110" y="1935" fill="#003b17" font-family="Arial, sans-serif" font-size="49" font-weight="900">PAVILLÓN VILA DE NOIA</text>
   <text x="113" y="1995" fill="#52705b" font-family="Arial, sans-serif" font-size="31" font-weight="700">CARBALLO · A CORUÑA</text>
   <text x="111" y="2138" fill="#009325" font-family="Arial, sans-serif" font-size="48" font-weight="900">MAXIBASKET +35</text>
   <text x="113" y="2192" fill="#003b17" font-family="Arial, sans-serif" font-size="25" font-weight="700">FEMININO E MASCULINO · EQUIPOS MIXTOS SE É PRECISO</text>
-  <rect x="1080" y="1885" width="580" height="365" rx="18" fill="#003b17"/>
-  <rect x="1110" y="1915" width="300" height="300" fill="#fff"/>
-  <image href="maxibasket-site-qr.png" x="1130" y="1935" width="260" height="260" preserveAspectRatio="xMidYMid meet"/>
-  <text x="1440" y="1975" fill="#a7e8a0" font-family="Arial, sans-serif" font-size="18" font-weight="700" letter-spacing="2">INSCRICIÓNS</text>
-  <text x="1440" y="2020" fill="#fff" font-family="Arial, sans-serif" font-size="34" font-weight="900">ABERTAS</text>
-  <text x="1440" y="2085" fill="#fff" font-family="Arial, sans-serif" font-size="18" font-weight="700">ESCANEA O QR</text>
-  <text x="1440" y="2120" fill="#a7e8a0" font-family="Arial, sans-serif" font-size="18" font-weight="700">OU VISITA A WEB</text>
-  <text x="1440" y="2170" fill="#fff" font-family="Arial, sans-serif" font-size="15" font-weight="700">maxibasket-carballo-2027</text>
-  <text x="1440" y="2197" fill="#fff" font-family="Arial, sans-serif" font-size="15" font-weight="700">.coral-1309.chatgpt.site</text>
+  <rect x="1120" y="1885" width="580" height="365" rx="18" fill="#003b17"/>
+  <rect x="1150" y="1915" width="300" height="300" fill="#fff"/>
+  <image href="maxibasket-site-qr.png" x="1170" y="1935" width="260" height="260" preserveAspectRatio="xMidYMid meet"/>
+  <text x="1465" y="1975" fill="#a7e8a0" font-family="Arial, sans-serif" font-size="14" font-weight="700" letter-spacing="0.4">INSCRICIÓNS</text>
+  <text x="1465" y="2020" fill="#fff" font-family="Arial, sans-serif" font-size="31" font-weight="900">ABERTAS</text>
+  <text x="1465" y="2085" fill="#fff" font-family="Arial, sans-serif" font-size="17" font-weight="700">ESCANEA O QR</text>
+  <text x="1465" y="2120" fill="#a7e8a0" font-family="Arial, sans-serif" font-size="17" font-weight="700">OU VISITA A WEB</text>
+  <text x="1465" y="2170" fill="#fff" font-family="Arial, sans-serif" font-size="13" font-weight="700">maxibasket-carballo-2027</text>
+  <text x="1465" y="2197" fill="#fff" font-family="Arial, sans-serif" font-size="13" font-weight="700">.coral-1309.chatgpt.site</text>
   <rect x="0" y="2315" width="1800" height="385" fill="#fff"/>
   <text x="110" y="2390" fill="#52705b" font-family="Arial, sans-serif" font-size="25" font-weight="700" letter-spacing="5">ORGANIZA E COLABORAN</text>
   <image href="partner-logos-reference.png" x="116" y="2425" width="1568" height="250" preserveAspectRatio="xMidYMid meet"/>
