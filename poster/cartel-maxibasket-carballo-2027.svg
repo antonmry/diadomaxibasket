@@ -6,12 +6,12 @@
   </defs>
   <rect width="1800" height="2700" fill="#f7f8f0"/>
   <path d="M0 0H1800V160C1320 285 1330 30 860 0H0Z" fill="#003b17"/>
-  <text x="110" y="156" fill="#a7e8a0" font-family="Arial, sans-serif" font-size="35" font-weight="700" letter-spacing="8">PRIMEIRA EDICIÓN · CARBALLO</text>
+  <text x="110" y="150" fill="#a7e8a0" font-family="Arial, sans-serif" font-size="30" font-weight="700" letter-spacing="3">PRIMEIRA EDICIÓN</text>
   <image href="maxibasket-emblem-green.png" x="1378" y="70" width="260" height="260" preserveAspectRatio="xMidYMid meet"/>
   <text x="110" y="365" fill="#003b17" font-family="Arial, sans-serif" font-size="78" font-weight="800">DÍA DO</text>
   <text x="104" y="590" fill="#009325" font-family="Arial, sans-serif" font-size="242" font-weight="900">MAXI</text>
   <text x="100" y="795" fill="#003b17" font-family="Arial, sans-serif" font-size="208" font-weight="900">BASKET</text>
-  <text x="116" y="855" fill="#52705b" font-family="Arial, sans-serif" font-size="32" font-weight="700" letter-spacing="6">EXPERIENCIA · COMPETICIÓN · COMUNIDADE</text>
+  <text x="116" y="855" fill="#52705b" font-family="Arial, sans-serif" font-size="25" font-weight="700" letter-spacing="2">EXPERIENCIA · COMPETICIÓN · COMUNIDADE</text>
   <image href="maxibasket-heritage-photo.png" x="0" y="880" width="1800" height="940" preserveAspectRatio="xMidYMid slice"/>
   <rect x="110" y="1570" width="615" height="160" rx="80" fill="#f7f8f0"/>
   <text x="176" y="1638" fill="#009325" font-family="Arial, sans-serif" font-size="34" font-weight="800" letter-spacing="4">DOMINGO</text>
