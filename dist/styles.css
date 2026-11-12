@@ -7,7 +7,7 @@ a{text-decoration:none;color:inherit}
 .topline span{height:3px;width:3px;border-radius:99px;background:#fff}
 .site-header{height:82px;padding:0 clamp(22px,5vw,80px);display:flex;align-items:center;justify-content:space-between;background:var(--paper);position:relative;z-index:5}
 .brand{display:flex;align-items:center;gap:10px;font-family:'Barlow Condensed',sans-serif;line-height:.73}
-.brand img{width:43px;height:43px;object-fit:contain;mix-blend-mode:multiply}
+.brand img{width:43px;height:43px;object-fit:contain}
 .brand span{display:flex;flex-direction:column}
 .brand strong{font-size:13px;letter-spacing:.1em}
 .brand b{font-size:26px;letter-spacing:-.025em}
@@ -57,7 +57,7 @@ nav a:hover:after{width:100%}
 .poster-type h2 span{color:var(--cream)}
 .poster-date{font:700 13px 'Barlow Condensed',sans-serif;letter-spacing:.13em}
 .poster-circle{position:absolute;width:470px;height:470px;right:13vw;top:-40px;border-radius:50%;background:var(--cream);display:grid;place-items:center}
-.poster-circle img{width:350px;height:350px;object-fit:contain;mix-blend-mode:multiply}
+.poster-circle img{width:350px;height:350px;object-fit:contain}
 .poster-note{position:absolute;right:5vw;bottom:35px;line-height:1.25}
 .poster-note b{font:900 47px 'Barlow Condensed',sans-serif;line-height:.7}
 .registration{background:#003b17;color:var(--cream)}
