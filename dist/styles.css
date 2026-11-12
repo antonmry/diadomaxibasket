@@ -77,7 +77,7 @@ nav a:hover:after{width:100%}
 .schedule-inner{display:grid;grid-template-columns:.85fr 1.15fr;gap:10vw}
 .schedule-heading h2{font-size:clamp(53px,6vw,95px);margin-top:34px}
 .schedule-card{background:var(--ink);color:var(--cream);padding:clamp(35px,5vw,68px);position:relative;overflow:hidden}
-.schedule-card:after{content:'03';position:absolute;right:-11px;bottom:-42px;font:900 230px 'Barlow Condensed',sans-serif;color:rgba(247,248,240,.05)}
+.schedule-card:after{content:'26';position:absolute;right:-11px;bottom:-42px;font:900 230px 'Barlow Condensed',sans-serif;color:rgba(247,248,240,.05)}
 .schedule-icon{font:600 41px serif;color:var(--orange)}
 .schedule-card h3{font:700 39px/.9 'Barlow Condensed',sans-serif;text-transform:uppercase;margin:18px 0}
 .schedule-card p{font-size:14px;line-height:1.7;max-width:440px;position:relative;z-index:1}
