@@ -82,6 +82,7 @@ nav a:hover:after{width:100%}
 .schedule-icon{font:600 41px serif;color:var(--orange)}
 .schedule-card h3{font:700 39px/.9 'Barlow Condensed',sans-serif;text-transform:uppercase;margin:18px 0}
 .schedule-card p{font-size:14px;line-height:1.7;max-width:440px;position:relative;z-index:1}
+.schedule-actions{display:flex;align-items:center;flex-wrap:wrap;gap:18px 24px;margin-top:26px;position:relative;z-index:1}.schedule-actions .text-link{color:var(--cream);border-color:var(--orange)}
 .schedule-meta{display:flex;gap:35px;border-top:1px solid rgba(247,248,240,.2);margin-top:41px;padding-top:17px;font-size:9px;letter-spacing:.1em;position:relative;z-index:1}
 .schedule-meta span{display:grid;gap:7px}
 .schedule-meta b{font-size:12px;letter-spacing:0}
