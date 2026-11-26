@@ -71,6 +71,7 @@ nav a:hover:after{width:100%}
 .registration-card h3{font:700 45px/.8 'Barlow Condensed',sans-serif;text-transform:uppercase;margin:0}
 .registration-card small{display:block;font-size:12px;line-height:1.5;margin:15px 0 22px;color:#47634a}
 .status-dot{position:absolute;right:28px;top:32px;width:10px;height:10px;background:var(--orange);border-radius:100%}
+.solo-player{display:grid;grid-template-columns:.75fr 1.25fr auto;gap:32px;align-items:center;margin-top:22px;padding:27px 30px;background:rgba(247,248,240,.1);border:1px solid rgba(247,248,240,.28)}.solo-player span{font-size:10px;font-weight:700;letter-spacing:.13em;color:#a7e8a0}.solo-player h3{font:700 30px/.9 'Barlow Condensed',sans-serif;text-transform:uppercase;margin:10px 0 0}.solo-player p{font-size:14px;line-height:1.55;max-width:530px;margin:0}.button-solo{justify-content:center;background:var(--cream);color:var(--ink);white-space:nowrap}.button-solo:hover{background:#fff;transform:translateY(-2px)}
 .button-muted{width:100%;justify-content:center;background:#c9dfc9;color:#47634a;border:0;gap:0;cursor:not-allowed}
 .notice{border-top:1px solid rgba(247,248,240,.22);margin-top:68px;padding-top:17px;font-size:12px;display:flex;gap:24px;line-height:1.5}
 .notice b{color:#a7e8a0;letter-spacing:.1em;font-size:10px}
@@ -142,6 +143,7 @@ nav.open{display:flex}
 .poster-note{display:none}
 .language-switch{margin-left:8px;margin-right:0}.cartel-preview{justify-self:start;max-width:360px;box-shadow:12px 12px 0 var(--ink)}.cartel-preview span{opacity:1}.brand-assets{grid-template-columns:1fr;gap:14px;padding-top:22px}.brand-downloads{grid-template-columns:1fr 1fr}.brand-assets-intro img{width:50px;height:50px}
 .registration-card{padding:28px}
+.solo-player{grid-template-columns:1fr;gap:17px;padding:25px}.solo-player p{font-size:13px}
 .notice{margin-top:47px}
 .schedule-card{margin-top:5px}
 .news-header{align-items:flex-start;gap:20px;flex-direction:column}
